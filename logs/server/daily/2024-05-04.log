@@ -1,0 +1,14 @@
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-04T05:39:37.475Z"}
+info: Connected to the database. {"timestamp":"2024-05-04T05:39:41.835Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-04T05:40:24.934Z"}
+info: Connected to the database. {"timestamp":"2024-05-04T05:40:29.079Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-04T05:41:35.491Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-04T11:55:19.158Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-04T11:55:19.228Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-04T11:55:46.037Z"}

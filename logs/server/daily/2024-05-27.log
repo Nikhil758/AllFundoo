@@ -1,0 +1,132 @@
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:06:41.073Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:06:41.129Z"}
+error: 
+    status - 500 
+    message - KafkaJSNonRetriableError
+  Caused by: KafkaJSConnectionError: Connection error: 
+    at Socket.onError (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\kafkajs\src\network\connection.js:210:23)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-27T04:07:11.695Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:07:48.790Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:07:48.824Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:08:18.100Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:08:18.201Z"}
+error: 
+    status - 500 
+    message - Error: Email already exist
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\services\/user.service.js:13:11)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-27T04:08:20.039Z"}
+error: 
+    status - 500 
+    message - KafkaJSNonRetriableError
+  Caused by: KafkaJSConnectionError: Connection error: 
+    at Socket.onError (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\kafkajs\src\network\connection.js:210:23)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-27T04:08:42.881Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:08:58.154Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:08:58.192Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:09:03.963Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:09:03.987Z"}
+error: 
+    status - 500 
+    message - KafkaJSNonRetriableError
+  Caused by: KafkaJSConnectionError: Connection error: 
+    at Socket.onError (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\kafkajs\src\network\connection.js:210:23)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-27T04:09:17.129Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:09:40.575Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:09:40.609Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:09:52.647Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:09:52.677Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:09:59.156Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:09:59.185Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:10:07.203Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:10:07.236Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:10:12.940Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:10:12.967Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:10:31.020Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:10:31.051Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:10:37.300Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:10:37.328Z"}
+error: 
+    status - 500 
+    message - KafkaJSNonRetriableError
+  Caused by: KafkaJSConnectionError: Connection error: 
+    at Socket.onError (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\kafkajs\src\network\connection.js:210:23)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-27T04:11:01.190Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:14:40.682Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:14:40.720Z"}
+error: 
+    status - 500 
+    message - KafkaJSNonRetriableError
+  Caused by: KafkaJSConnectionError: Connection error: 
+    at Socket.onError (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\kafkajs\src\network\connection.js:210:23)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-27T04:15:01.338Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:15:32.123Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:15:32.164Z"}
+error: 
+    status - 500 
+    message - KafkaJSNonRetriableError
+  Caused by: KafkaJSConnectionError: Connection error: 
+    at Socket.onError (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\kafkajs\src\network\connection.js:210:23)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-27T04:15:53.065Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:16:17.837Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:16:17.864Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:19:04.907Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:19:04.934Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-27T04:20:26.538Z"}
+info: Connected to the database. {"timestamp":"2024-05-27T04:20:26.571Z"}

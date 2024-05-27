@@ -1,0 +1,270 @@
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:02:19.820Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:02:19.873Z"}
+error: 
+    status - 500 
+    message - Error: Email already exist
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\services\/user.service.js:13:11)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T03:03:58.490Z"}
+error: 
+    status - 500 
+    message - Error: Email already exist
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\services\/user.service.js:13:11)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T03:04:01.708Z"}
+error: 
+    status - 500 
+    message - KafkaJSNonRetriableError
+  Caused by: KafkaJSConnectionError: Connection error: 
+    at Socket.onError (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\kafkajs\src\network\connection.js:210:23)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T03:04:18.158Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:08:21.643Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:08:21.672Z"}
+error: 
+    status - 500 
+    message - TypeError: (0 , _producer.default) is not a function
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\controllers\/user.controller.js:24:25)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T03:10:10.363Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:11:18.155Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:11:18.180Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:11:30.106Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:11:30.141Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:11:36.288Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:11:36.312Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:11:49.304Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:11:54.318Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:11:54.348Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:12:20.249Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:12:20.273Z"}
+error: 
+    status - 500 
+    message - Error: Email already exist
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\services\/user.service.js:13:11)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T03:12:27.161Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:21:56.477Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:21:56.511Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:22:25.055Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:22:25.082Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:24:27.926Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:24:27.953Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:24:34.012Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:24:34.038Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:27:59.908Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:27:59.932Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:28:20.154Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:28:20.178Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:28:32.731Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:28:32.759Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:29:24.147Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:29:24.184Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:33:40.438Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:33:40.462Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:33:51.664Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:33:51.691Z"}
+error: 
+    status - 500 
+    message - ReferenceError: messages is not defined
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\controllers\/user.controller.js:34:7)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T03:33:59.604Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:34:16.767Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:34:16.795Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:35:47.268Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:35:47.296Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T03:37:26.906Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T03:37:26.937Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:34:09.611Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:34:09.652Z"}
+error: 
+    status - 500 
+    message - TokenExpiredError: jwt expired
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\middlewares\/auth.middleware.js:22:28)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T05:34:16.992Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:35:38.131Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:35:38.156Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:36:15.603Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:36:15.626Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:37:06.040Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:37:06.070Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:37:38.434Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:37:38.457Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:38:23.543Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:38:23.570Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:38:32.358Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:38:32.391Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:38:37.532Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:38:37.556Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:38:44.695Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:38:44.718Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:38:52.858Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:38:52.881Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:39:34.220Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:39:34.243Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:49:23.416Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:49:23.445Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:50:47.397Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:50:47.428Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:52:31.147Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:52:31.174Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:53:20.973Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:53:21.002Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:53:58.808Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:53:58.840Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:54:12.945Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:54:12.973Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:54:25.045Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:54:25.073Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:57:19.419Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:57:19.444Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:57:36.600Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:57:36.634Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T05:58:39.254Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T05:58:39.277Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T06:02:50.962Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T06:03:48.487Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T06:03:48.509Z"}
+error: 
+    status - 500 
+    message - ReferenceError: output is not defined
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\controllers\/user.controller.js:34:7)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T06:03:58.871Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T06:04:17.665Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T06:04:17.743Z"}
+error: 
+    status - 500 
+    message - Error: Email already exist
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\services\/user.service.js:13:11)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-21T06:04:17.768Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T06:08:20.973Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T06:08:21.004Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:10:47.993Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:10:48.041Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:10:54.822Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:10:54.848Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:12:18.499Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:12:18.530Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:12:55.420Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:12:55.448Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:14:47.610Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:14:47.648Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:15:33.184Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:15:33.217Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:15:52.095Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:15:52.131Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:16:05.949Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:16:05.971Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-21T07:16:35.458Z"}
+info: Connected to the database. {"timestamp":"2024-05-21T07:16:35.494Z"}

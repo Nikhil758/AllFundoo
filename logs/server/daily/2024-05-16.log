@@ -1,0 +1,404 @@
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:04:28.499Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:04:28.589Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:04:28.794Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:05:16.485Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:05:16.549Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:05:16.773Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:05:17.150Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:05:17.209Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:24:15.080Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:24:15.138Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:24:15.369Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:24:15.742Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:24:15.797Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:24:40.891Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:24:40.939Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:24:41.122Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:24:41.418Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:24:41.473Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:26:06.668Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:26:06.736Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:26:06.945Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:26:07.317Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:26:07.385Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:27:24.141Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:27:24.183Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:27:24.630Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:27:24.667Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:28:44.254Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:28:46.770Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:28:50.546Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:28:51.879Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:29:31.412Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:29:34.472Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:29:36.454Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:29:38.680Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:29:39.911Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:32:18.316Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:32:21.188Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:32:22.954Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:32:25.084Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:32:26.322Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:34:27.984Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:34:30.966Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:34:32.895Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:34:35.214Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T03:34:36.376Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:34:57.174Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:34:57.209Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:35:12.169Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:35:12.198Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T03:37:01.189Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T03:37:01.219Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:40:46.856Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:40:46.906Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:44:06.759Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:44:06.783Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:44:51.153Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:44:51.178Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:44:57.671Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:44:57.705Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:45:03.777Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:45:03.805Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:45:25.511Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:45:25.540Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:47:02.288Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:47:02.319Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:47:09.824Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:47:09.860Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:47:15.196Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:47:15.219Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:47:20.436Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:47:20.460Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:49:22.537Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:49:22.568Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:49:32.749Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:49:32.778Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:49:40.698Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:49:40.723Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:49:45.324Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:49:45.354Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:49:49.690Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:49:49.712Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:50:12.601Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:50:12.630Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:51:16.396Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:51:16.422Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:51:22.094Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:51:22.117Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T07:51:28.220Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T07:51:28.242Z"}
+error: 
+    status - 500 
+    message - TokenExpiredError: jwt expired
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\middlewares\/auth.middleware.js:22:28)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-16T07:55:14.355Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T12:20:28.091Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T12:20:28.144Z"}
+error: 
+    status - 500 
+    message - Error: Email already exist
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\services\/user.service.js:13:11)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-16T12:21:24.074Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T12:29:15.767Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T12:29:19.243Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T12:29:21.629Z"}
+error: 
+    status - 500 
+    message - ValidationError: Invalid 
+    url - /api/users/reset 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T12:29:24.170Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-05-16T12:29:25.307Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T16:52:45.897Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T16:52:45.945Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T16:56:02.467Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T16:56:02.504Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-16T16:56:15.159Z"}
+info: Connected to the database. {"timestamp":"2024-05-16T16:56:15.195Z"}
+error: 
+    status - 500 
+    message - TokenExpiredError: jwt expired
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\middlewares\/auth.middleware.js:22:28)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\index.js:142:6)
+    at xXssProtectionMiddleware (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\index.js:145:6)
+    at referrerPolicyMiddleware (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\index.js:145:6)
+    at xPermittedCrossDomainPoliciesMiddleware (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\index.js:145:6)
+    at xContentTypeOptionsMiddleware (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\index.js:145:6)
+    at xDownloadOptionsMiddleware (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-16T17:00:26.753Z"}

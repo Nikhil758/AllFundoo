@@ -1,0 +1,212 @@
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T04:18:59.869Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T04:18:59.911Z"}
+error: 
+    status - 500 
+    message - TypeError: client.KEYS is not a function
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:53:35)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllNotesForUser (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:51:32)
+    at _callee2$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\controllers\/notes.controller.js:41:43)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllNotes (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\controllers\/notes.controller.js:39:25)
+    at Layer.handle [as handle_request] (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\express\lib\router\route.js:149:13)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\middlewares\/auth.middleware.js:25:5)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-14T04:20:05.235Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T04:20:18.777Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T04:20:18.798Z"}
+error: 
+    status - 500 
+    message - TypeError: client.MGET is not a function
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:59:36)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-14T04:20:20.506Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T04:20:33.134Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T04:20:33.154Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+    at JSON.parse (<anonymous>)
+    at map (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:60:46)
+    at Array.map (<anonymous>)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:60:29)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-14T04:20:35.025Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T04:21:13.312Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T04:21:13.336Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T04:22:49.274Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T04:22:49.296Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T04:23:23.143Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T04:23:23.166Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+    at JSON.parse (<anonymous>)
+    at map (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:46)
+    at Array.map (<anonymous>)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:29)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-14T04:23:37.109Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+    at JSON.parse (<anonymous>)
+    at map (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:46)
+    at Array.map (<anonymous>)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:29)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-14T04:23:37.965Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T04:24:14.770Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T04:24:14.797Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+    at JSON.parse (<anonymous>)
+    at map (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:49)
+    at Array.map (<anonymous>)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:29)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-14T04:24:16.397Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+    at JSON.parse (<anonymous>)
+    at map (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:49)
+    at Array.map (<anonymous>)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:29)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-14T04:24:17.358Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T04:24:32.841Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T04:24:32.861Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+    at JSON.parse (<anonymous>)
+    at map (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:46)
+    at Array.map (<anonymous>)
+    at _callee$ (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\src\utils\/redis.js:17:29)
+    at tryCatch (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\naval\OneDrive\Desktop\FUNDOO_NOTES\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/notes/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-05-14T05:04:30.627Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:06:42.952Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:06:43.010Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:11:37.791Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:11:37.824Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:11:44.208Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:11:44.235Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:12:08.245Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:12:08.271Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:13:48.329Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:13:48.358Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:48:20.579Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:48:20.618Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:48:25.535Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:48:25.562Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:48:42.625Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:48:42.649Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:49:01.057Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:49:01.088Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:49:04.709Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:49:04.737Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:49:15.871Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:49:15.908Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:49:27.355Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:49:27.382Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:49:31.068Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:49:31.106Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:50:21.260Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:50:21.300Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:51:36.813Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:51:36.838Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:51:46.481Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:51:46.512Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:51:51.146Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:51:51.170Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:52:05.379Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:52:05.409Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:52:10.949Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:52:11.001Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:52:49.628Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:52:49.657Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T05:52:53.513Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T05:52:53.539Z"}
+info: Server started at http://localhost:3000/api-docs {"timestamp":"2024-05-14T06:02:26.911Z"}
+info: Connected to the database. {"timestamp":"2024-05-14T06:02:26.943Z"}
