@@ -21,14 +21,15 @@ const app = express();
 const host = process.env.APP_HOST;
 const port = process.env.APP_PORT;
 
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swagger));
+
 app.use(cors());
 app.use(helmet());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 database();
-
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swagger));
+//
 
 app.use(`/api`, routes());
 app.use(appErrorHandler);
