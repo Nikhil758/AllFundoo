@@ -1,10 +1,5 @@
 import HttpStatus from 'http-status-codes';
 import * as UserService from '../services/user.service';
-import createTopic from '../kafka/admin';
-import { produceMessage } from '../kafka/producer';
-import runConsumer from '../kafka/consumer';
-
-const TOPIC_NAME = 'user-registration';
 
 /**
  * Controller to create a new user
@@ -20,9 +15,6 @@ export const newUserRegister = async (req, res, next) => {
       message: 'User created successfully',
       user: { first_name, last_name, email }
     });
-    await createTopic(TOPIC_NAME);
-    await produceMessage(TOPIC_NAME, message);
-    await runConsumer(TOPIC_NAME).catch(console.error);
     res.status(HttpStatus.CREATED).json({
       success: true,
       message: 'User created successfully',
